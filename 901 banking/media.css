@@ -1,0 +1,365 @@
+@media(max-width: 1253px){
+    header{
+       height: 70px;
+   }
+   .first .ulone {
+    padding: 2px;
+    gap: 1rem;
+  
+  } 
+  .country{
+    font-size: 11.4769px;
+    font-weight: 400;
+    line-height: 17.2153px;
+  }
+  .country a{
+    color: #212529;
+  }
+  .first .ulone li a{
+    font-size: 11.4769px;
+    font-weight: 400;
+    line-height: 17.2153px;
+  } 
+  .first .ulone li a span{
+    font-size: 11.4769px;
+    font-weight: 600;
+    line-height: 17.2153px;  
+  }
+  .aslog{
+     width: 150px;
+     padding-left: 10px;
+  }
+  .righto{
+     width: 75%;
+     gap: 0.5rem;
+     
+  }
+  .timmy2{
+     gap: 1rem;
+     padding-left: 0px;
+     
+  }
+  .timmy2 li a{
+     font-size: 13px;
+     font-weight: 400;
+     line-height: 22.5px;
+  }
+  .timmy2 li a:hover{
+     padding: 2px 4px;
+  }
+  .lefto{
+     width: 25%;
+  }
+  .search{
+     padding: 7px;
+  }
+  .inter{
+     padding: 9px 15px;
+  }
+  /* sectionone  */
+  .onediv{
+    left: 50px;
+    top: 130px;
+  }
+  .bigfour{
+   width: 95%;
+  }
+  .bigfive{
+   width: 95%;
+  }
+  .fiveimg{
+   padding-bottom: 2rem;
+  }
+  .fivetext{
+   line-height: 25px;
+  }
+  .submain{
+   width: 80%;
+}
+.semibox{
+   width: 100%;
+}
+
+
+}
+@media(max-width: 1234px){
+    header{
+       height: 70px;
+   }
+ .first .ulone {
+   padding: 2px;
+   gap: 1rem;
+ 
+ } 
+ .country{
+   font-size: 11.4769px;
+   font-weight: 400;
+   line-height: 17.2153px;
+ }
+ .country a{
+   color: #212529;
+ }
+ .first .ulone li a{
+   font-size: 11.4769px;
+   font-weight: 400;
+   line-height: 17.2153px;
+ } 
+ .first .ulone li a span{
+   font-size: 11.4769px;
+   font-weight: 600;
+   line-height: 17.2153px;  
+ }
+ .aslog{
+    width: 150px;
+    padding-left: 10px;
+ }
+ .righto{
+    width: 75%;
+    gap: 0.5rem;
+    
+ }
+ .timmy2{
+    gap: 1rem;
+    padding-left: 0px;
+    
+ }
+ .timmy2 li a{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22.5px;
+ }
+ .timmy2 li a:hover{
+    padding: 2px 4px;
+ }
+ .lefto{
+    width: 25%;
+ }
+ .search{
+    padding: 7px;
+ }
+ .inter{
+    padding: 9px 15px;
+ } 
+}
+@media(max-width: 1200px){
+   .toolslist {
+      overflow-x: scroll;
+  
+}
+}
+@media(max-width: 1114px){
+    .win{
+        width: 550px;
+        height: 50vh;
+    }
+
+.start{
+    font-size: 15px;
+}
+.paras{
+    font-size: 14.45px;
+}
+.lisst{
+    font-size: 14px;
+}
+.yuyu{
+   height: 400px;
+}
+.bigfour{
+   width: 100%;
+}
+.line{
+   width: 90%;
+}
+.fouttext{
+   line-height: 20px;
+}
+.bigfive{
+   width: 100%;
+}
+.copyright-links{
+   display: none;
+}
+.logot{
+   display: none;
+}
+
+}
+@media (max-width: 1030px) {
+   .mainfooter{
+      display: none;
+
+   }
+   .footer2{
+      display: block;
+   }
+   .wewe{
+      display: block;
+      margin-inline: auto;
+   }
+   .box2{
+      height: 130px;
+   }
+}
+
+@media(max-width: 992px){
+   .bigfour{
+      flex-direction: column;
+    }
+    
+    .fouttext{
+      width: 100%;
+    }
+    .logot{
+      display: none;
+    }
+
+    .ehc3{
+      font-size: 24px;
+    }
+    .ess{
+      font-size: 24px;
+    }
+    .line{
+      width: 100%;
+    }
+
+   .bigfive{
+      flex-direction: column;
+   }
+}
+@media(max-width: 987px){
+    .head{
+       display: none;
+    }
+    .head2{
+       display: block;
+    }
+    .jur2{
+        display: block;
+    }
+   
+
+}
+@media(max-width: 924px){
+   .senior{
+      display: none;
+   }
+   .senior2{
+      display: block;
+   }
+  .win{
+   width: 70%;
+   height: 60%;
+  } 
+}
+@media(max-width: 918px){
+  .win{
+   width: 98%;
+   height: 100%;
+  } 
+  .jurr{
+   width: 98%;
+   height: 100%;
+  } 
+}
+@media(max-width: 896px){
+   .yuyu{
+      width: 70%;
+   }
+}
+
+
+@media (min-width: 768px) {
+    .onediv {
+        max-width: 720px;
+    }
+}
+@media (max-width: 768px){
+    .onediv{
+        left: 40px;
+        top: 100px;
+  } 
+  .butin1{
+    padding: 6px 25px;
+    font-size: 14px;
+  }
+  .yuyu{
+   width: 80%;
+}
+    }
+
+@media(max-width:598px){
+    .onediv{
+        left: 10px;
+        top: 70px;
+    }
+    .yuyu{
+      width: 85%;
+   }
+
+}
+@media(max-width:598px){
+   .yuyu{
+      width: 95%;
+      height: 300px;
+   }
+}
+
+@media(max-width: 560px){
+   .imidle{
+      width: 60px;
+   }
+   .middle h6{
+      font-size: 14px;
+   }
+   .semibox{
+      width: 100%;
+   }
+}
+
+@media(max-width: 473px){
+  .fourimg img{
+   width: 90%;
+  }
+  .fiveimg img{
+   width: 90%;
+  }
+  .sevenimg img{
+   width: 90%;
+  }
+  .ehc3{
+   flex-wrap: wrap;
+   font-size: 17px;
+  }
+}
+@media(max-width: 439px){
+   .secondo{
+    width: 100%;
+    justify-content: space-between;
+    padding: 0px 0px;
+    margin: 0px;
+   } 
+   .fouttext{
+      text-wrap: wrap;
+   }
+
+   .aslog{
+      padding-left: 0%;
+   }
+}
+@media(max-width: 395px){
+    .head2{
+     overflow-x: hidden;
+    }
+    .box2{
+      width: 90%;
+    }
+}
+@media(max-width: 351px){
+   .onediv{
+      top: 30px;
+   }
+}
+
+

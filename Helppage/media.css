@@ -1,0 +1,134 @@
+@media(max-width:1253px){
+    .contt{
+        top: 430px;
+    }
+    .gridcon{
+        row-gap: 1rem;
+        column-gap: 0.1rem;
+        width: 95%;     
+    }
+    .box1{
+        width: 356px;
+        
+    }
+    .box1 h3{
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .box1 h4{
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .box1 p{
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    .box1 .img1{
+        width: 70px;
+    }
+}
+@media(max-width:1190px){
+    .gridcon{
+        grid-template-columns: repeat(2,1fr);
+        column-gap: 0px;
+        width: 85%;
+    }
+    .box1 .img1{
+        left: 250px;
+    }
+    .box1{
+        width: 386px;
+
+    } 
+    
+}
+@media(max-width:992px){
+    .contt{
+        width: 80%;
+    }
+    .supee1{
+        display: none;
+    }
+    .secone{
+        width: 100%;
+        height: 50vh;
+        background-position: center;
+    }
+    .contt{
+        top: 230px;
+    } 
+    
+}
+@media(max-width:873px){
+    .gridcon{
+        grid-template-columns: repeat(1,1fr);
+        width: 50%;
+    }
+    .sectwo{
+        width: 100%;
+    }
+}
+@media(max-width:577px){
+    .contt{
+        width: 80%;
+        left: 30px;
+        padding: 0px 20px;
+    }
+    .secone{
+        flex-wrap: nowrap;
+        background-position: center;
+    }
+    .gridcon{
+        width: 70%;
+    }
+}
+@media(max-width:475px){
+    .gridcon{
+        width: 90%;
+    }
+}
+@media(max-width:418px){
+    .gridcon{
+        width: 100%;
+    }
+}
+@media(max-width:392px){
+    .gridcon{
+        width: 100%;
+    }
+    .box1{
+        width: 98%;
+    }
+    .box1 h3{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .box1 h4{
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .box1 p{
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .box1 .img1{
+        width: 65px;
+        left: 230px;
+    }
+
+}
+@media(max-width:302px){
+    .box1 .img1{
+        width: 65px;
+        left: 190px;
+    }
+}
+@media(max-width:262px){
+    .box1 .img1{
+        width: 65px;
+        left: 150px;
+    }
+}
+

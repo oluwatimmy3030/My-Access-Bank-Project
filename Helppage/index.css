@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.secone{
+    position: relative;
+    height: 80vh;
+    background-image: url(./imghep/customersupportIMG.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.aslog{  
+    width: 200px;
+}
+
+.contt{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin-inline: auto;
+    justify-content: space-around;
+    position: absolute;
+    top: 500px;
+    left: 80px;
+    height: 180px;
+
+    background-color: rgb(1,64,134);
+    
+}
+
+.contt .two{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.contt  .ptwo{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sectwo{
+    background-color: #f1f1f1;
+    margin-top: 80px; 
+    position: relative;
+    width: 100%;
+
+}
+.gridcon{
+    padding-top: 60px;
+    width: 90%;
+    margin-inline: auto;
+    row-gap: 3rem;
+    column-gap: 3rem;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.box1{
+    width: 396px;
+    height: 210px;
+    background-color: #fff;
+    position: relative;
+    transition: transform 0.3s ease;
+    
+}
+.box1:hover{
+    border: 1px solid #EE7E01;
+    border-bottom: 5px solid #EE7E01;
+    transform: scale(1.1);
+    
+}
+
+.box1 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    color: #666666;
+    margin-top: 20px;
+
+}
+.box1 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #999999;
+    text-align: center;
+    margin-top: 10px;
+    
+
+}
+.box1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #999999;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.box1 .img1{
+    position: absolute;
+    bottom: 10px;
+    left: 280px;
+    /* filter: contrast(60%);/ */
+    /* filter: brightness(30%) ; */
+    opacity: 0.5;
+}
+button{
+    background-color: #EE7E01;
+    margin-top: 50px;
+    align-items: center;
+    padding: 8px 24px;
+    border: none;
+    margin-bottom: 40px;
+}
+button a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+}
+
+
+
+

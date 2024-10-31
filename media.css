@@ -1,0 +1,678 @@
+/* media query */
+@media(max-width: 1253px){
+   header{
+      height: 70px;
+  }
+  .first .ulone {
+   padding: 2px;
+   gap: 1rem;
+ 
+ } 
+ .country{
+   font-size: 11.4769px;
+   font-weight: 400;
+   line-height: 17.2153px;
+ }
+ .country a{
+   color: #212529;
+ }
+ .first .ulone li a{
+   font-size: 11.4769px;
+   font-weight: 400;
+   line-height: 17.2153px;
+ } 
+ .first .ulone li a span{
+   font-size: 11.4769px;
+   font-weight: 600;
+   line-height: 17.2153px;  
+ }
+ .aslog{
+    width: 150px;
+    padding-left: 10px;
+ }
+ .righto{
+    width: 75%;
+    gap: 0.5rem;
+    
+ }
+ .timmy2{
+    gap: 1rem;
+    padding-left: 0px;
+    
+ }
+ .timmy2 li a{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22.5px;
+ }
+ .timmy2 li a:hover{
+    padding: 2px 4px;
+ }
+ .lefto{
+    width: 25%;
+ }
+ .search{
+    padding: 7px;
+ }
+ .inter{
+    padding: 9px 15px;
+ } 
+   .payday-calc-box {
+      width: 75%;
+      left: 1px;
+   }  
+   .parent2{
+      right: -30px;
+   }
+   .itt1{
+      width: 80%;
+   }
+   
+   .one1a{
+      width: 250px; 
+   }
+   .timbut7{
+      padding: 5px 10px;
+      margin-bottom: 20px;
+  }
+  
+   .two1a{
+      width: 250px; 
+   }   
+   .three1a{
+      width: 250px; 
+   }   
+   .four1a{
+      width: 250px; 
+   }   
+   .five1a{
+      width: 250px; 
+   }   
+   .six1a{
+      width: 250px; 
+   } 
+    .bigdiv{
+      width: 95%;
+   }   
+   .one img{
+      width: 300px;
+   }
+   .two img{
+      width: 300px;
+   }
+   .three img{
+      width: 300px;
+   }
+   .second{
+      width: 77%;
+   }
+   .submain{
+      width: 80%;
+   }
+   .semibox{
+      width: 100%;
+   }
+
+}
+@media(max-width: 1234px){
+   header{
+      height: 70px;
+  }
+.first .ulone {
+  padding: 2px;
+  gap: 1rem;
+
+} 
+.country{
+  font-size: 11.4769px;
+  font-weight: 400;
+  line-height: 17.2153px;
+}
+.country a{
+  color: #212529;
+}
+.first .ulone li a{
+  font-size: 11.4769px;
+  font-weight: 400;
+  line-height: 17.2153px;
+} 
+.first .ulone li a span{
+  font-size: 11.4769px;
+  font-weight: 600;
+  line-height: 17.2153px;  
+}
+.aslog{
+   width: 150px;
+   padding-left: 10px;
+}
+.righto{
+   width: 75%;
+   gap: 0.5rem;
+   
+}
+.timmy2{
+   gap: 1rem;
+   padding-left: 0px;
+   
+}
+.timmy2 li a{
+   font-size: 13px;
+   font-weight: 400;
+   line-height: 22.5px;
+}
+.timmy2 li a:hover{
+   padding: 2px 4px;
+}
+.lefto{
+   width: 25%;
+}
+.search{
+   padding: 7px;
+}
+.inter{
+   padding: 9px 15px;
+} 
+.sectwo{
+   margin-top: 30px;
+} 
+.justified-text {
+   width: 60%;  
+   
+}
+}
+@media(max-width: 1217px){
+   
+.carou1{
+   margin-top: 100px;
+}
+.carou2{
+   margin-top: 100px;
+}
+.carou3{
+   margin-top: 100px;
+}
+.carou4{
+   margin-top: 100px;
+}
+.carou5{
+   margin-top: 100px;
+}
+.carou6{
+   margin-top: 100px;
+}
+.timp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;  
+}
+.itt1{
+   width: 85%;
+}
+.timpp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;  
+}
+.timh2{
+    font-size: 55px;
+    line-height: 50px;
+}
+.timh3{
+    font-size: 55px;
+    line-height: 50px;
+}
+.timh4{
+    font-size: 55px;
+    line-height: 30px;
+}
+.cardboard{
+  width: 90%;  
+}
+.him{
+    font-size: 25px;
+    line-height: 30px;
+ }
+ .pim{
+    font-size: 12.6px;
+    line-height: 20px; 
+    
+ }
+.him2{
+    font-size: 25px;
+    line-height: 30px;
+ }
+ .pim2{
+    font-size: 12.6px;
+    line-height: 20px; 
+    
+ }
+.him3{
+    font-size: 25px;
+    line-height: 30px;
+ }
+ .pim3{
+    font-size: 12.6px;
+    line-height: 20px; 
+    
+ }
+.him4{
+    font-size: 25px;
+    line-height: 30px;
+ }
+ .pim4{
+    font-size: 12.6px;
+    line-height: 20px; 
+    
+ }
+}
+@media (max-width: 1210px){
+.payday-calc-box {
+   width: 75%;
+   left: 1px;
+   height: 90%;
+}
+.parent2{
+   right: -10px;
+}
+.loan-amount{
+   left: 35%;
+   top: 35%;
+}
+.loan-drag-circle{
+   left: 35%;
+   top: 35%;
+   width: 90%;
+   height: 90%;
+}
+.payday-calc-terms{
+   padding: 0.4rem;
+   bottom: 17px;
+}
+.parent2{
+   height: 80%;
+}
+.payday-calc-title{
+   line-height: 28px;
+}
+.payday-calc-box-text{
+   width: 100%;
+}
+
+.payday-calc-float {
+   padding: 0.6rem 0rem 1rem 2rem;
+   
+}
+
+}
+
+@media (max-width: 1200px) {
+   .toolslist {
+      overflow-x: scroll;
+  
+}
+}
+@media (min-width: 1200px) {
+   .container, .container-lg, .container-md, .container-sm, .container-xl {
+       max-width: 1140px;
+}
+
+  
+   
+}
+
+@media(max-width: 1159px){
+    .board3{
+        display: none;
+    }
+    
+}
+@media(max-width: 1105px){
+      .youel{
+         display: none;
+      }
+      .youel li{
+         display: none;
+      }
+}
+@media (max-width: 1030px) {
+   .mainfooter{
+      display: none;
+
+   }
+   .footer2{
+      display: block;
+   }
+   
+   .wewe{
+      display: block;
+      margin-inline: auto;
+   }
+   .box2{
+      height: 130px;
+   }
+   
+}
+@media (max-width: 1000px) {
+
+    .payday-calc-container {
+       flex-direction: column;
+       height: auto;   
+  }
+   .payday-calc-box {
+       width: 100%;
+       flex-direction: column;
+   }
+   .payday-calc-box-1 {
+      width: 100%;
+      border-right: 0;
+      border-bottom: 1px solid #fff;
+      padding: 2rem;
+
+}
+   .payday-calc-title {
+      width: 100%;
+      text-align: center;
+}
+  
+.payday-calc-box-text {
+   width: 100%;
+   text-align: center;
+}
+.payday-calc-box-2 {
+   width: 100%;
+   padding: 2rem 2rem 10rem 2rem;
+   justify-content: center;
+   align-items: center;
+}
+.payday-calc-float-parent {
+   right: 50%;
+   /* bottom: 90%; */
+   height: 350px;
+   transform: translate(50%, 50%);
+   width: 90%;
+   clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
+}
+
+.payday-calc-float {
+   padding: 8rem 2rem 2rem 2rem;
+   height: auto;
+}
+}
+@media(max-width: 1020px){
+   .ccc{
+      display: none;
+   }
+   .ccc2{
+      display: block;
+   }
+   .itt1{
+      width: 80%;
+   }
+}
+.secfour{
+ margin-top: 180px;  
+}
+@media(max-width: 999px){
+    .board2{
+        display: none;
+    }
+    .logot{
+      display: none;
+    }
+
+}
+@media(max-width: 992px){
+   .bigdiv{
+      width: 100%;
+      flex-wrap: wrap;
+   }
+}
+
+@media(max-width: 987px){
+ .head{
+    display: none;
+ }
+ .head2{
+    display: block;
+ }
+ .itemcarou1{
+    display: none;
+ }
+ 
+ .timh{
+   font-size: 30px;
+   font-weight: 600;
+   line-height: 38px;
+}
+.timp{
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 24px;  
+}
+.timpp{
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 24px;  
+}
+.timh span{
+  
+   font-size: 28px;
+   font-weight: 200;
+   line-height: 30px;
+}
+.cardboard2{
+   display: flex;
+}
+
+.timh2{
+
+   font-size: 30px;
+   font-weight: 400;
+   line-height: 38px;
+}
+.timh2 span{
+  
+   font-size: 28px;
+   font-weight: 600;
+   line-height: 32px;
+   
+}
+.timh3{
+   font-size: 30px;
+   font-weight: 400;
+   line-height: 38px;
+}
+.timh4{
+   
+   font-size: 30px;
+   font-weight: 600;
+   line-height: 38px;
+ }
+ .timh4 span{
+   font-size: 30px;
+   font-weight: 200;
+   line-height: 38px;
+}
+ .itemcarou{
+    display: block;
+ }
+ .board{
+   height: 130px;
+ }
+ .board4{
+   height: 130px;
+ }
+ .marrhead{
+   top: 30px;
+   
+ }
+
+ .lefto2{
+    gap: 0.6rem;
+ }
+
+ .inter2{
+    padding: 3px 10px;
+    margin-top: 5px;
+ }
+
+ .sectwo{
+   margin-top: 80px;
+ }
+
+
+}
+
+@media (max-width: 767px) {
+   .access-promotion-img {
+       position: relative;
+       width: 100%;
+       aspect-ratio: 2 / 1;
+   }
+   .access-promotion-block {
+      position: relative;
+      width: 100%;
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+      padding: 1.7rem 2rem 1rem 2rem;
+      background: #98d416;
+      border-bottom: 10px solid #EE7E01;
+  }
+  .access-promotion {
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+   height: auto;
+   width: 90%;
+}
+
+}
+
+@media(max-width: 711px){
+   .ccc2{
+      display: none;
+   }
+   .ccc3{
+      display: block;
+   }
+   .itt1{
+     width: 50%; 
+   }
+}
+@media(max-width: 683px){
+  .board4{
+   display: none;
+  }
+  .cardboard2{
+   width: 60%;
+   align-items: center;
+   align-self: center;
+  }
+  .board{
+   margin-inline: auto;
+   align-items: center;
+   align-self: center;
+   height: 120px;
+   padding: 15px;
+   
+  }
+  .justified-text{
+   width: 75%;
+  }
+  .justified-text h1{
+   font-size: 1.6em;
+  }
+  .justified-text p{
+   font-size: 0.7em;
+  }
+  .bigdiv{
+   width: 60%;
+  }
+}
+@media(max-width: 560px){
+   .imidle{
+      width: 60px;
+   }
+   .middle h6{
+      font-size: 14px;
+   }
+   .semibox{
+      width: 100%;
+   }
+}
+@media(max-width: 504px){
+   .sectwo{
+      margin-top: 150px;
+   }
+   .itt1{
+      width: 70%; 
+    }
+}
+
+@media(max-width: 462px){
+    .secondo2{
+        padding: 0px;
+    }
+    .lefto2{
+        gap: 0.2rem;
+     }
+     .bigdiv{
+      width: 80%;
+     }   
+     
+}
+@media(max-width:407px){
+.payday-calc-float-parent {
+   right: 50%;
+   height: 400px;
+   transform: translate(50%, 60%);
+   width: 90%;
+   clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
+}
+.secfour{
+   margin-top: 250px;
+}
+
+}
+
+@media(max-width: 395px){
+  .head2{
+   overflow-x: hidden;
+  }
+  .board{
+   height: 150px;
+  }
+  .him{
+   line-height: 24px;
+   
+  }
+  .pim{
+   line-height: 12px;
+  }
+}
+@media(max-width: 386px){
+   .secone{
+      height: 140vh;
+   }
+   .sectwo{
+      margin-top: 180px;
+   }
+}
+@media(max-width: 386px){
+   .sectwo{
+      margin-top: 230px;
+   }
+   .itt1{
+      width: 90%; 
+    }
+    .bigdiv{
+       width: 100%;
+    }
+    .box2{
+      width: 90%;
+    }
+}
+
+
+
